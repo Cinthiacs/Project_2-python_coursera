@@ -1,0 +1,96 @@
+﻿Nível,Data e Hora,Fonte,Identificação do Evento,Categoria da Tarefa
+Aviso,02/02/2022 11:52:31,Microsoft-Windows-DistributedCOM,10016,Nenhum,"As configurações de permissão específico do aplicativo não concedem permissão Local Ativação para o aplicativo de Servidor COM com CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ e APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ ao usuário LAPTOP-4IGFLVR7\cinth SID (S-1-5-21-2804296457-3408085198-1998820742-1001) do endereço LocalHost (Usando LRPC) que está sendo executado no contêiner de aplicativos Não Disponível SID (Não Disponível). Essa permissão de segurança pode ser modificada com a ferramenta administrativa Serviços de Componentes."
+Aviso,02/02/2022 11:42:11,Microsoft-Windows-DistributedCOM,10016,Nenhum,"As configurações de permissão específico do aplicativo não concedem permissão Local Ativação para o aplicativo de Servidor COM com CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ e APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ ao usuário LAPTOP-4IGFLVR7\cinth SID (S-1-5-21-2804296457-3408085198-1998820742-1001) do endereço LocalHost (Usando LRPC) que está sendo executado no contêiner de aplicativos MicrosoftWindows.Client.WebExperience_421.20050.505.0_x64__cw5n1h2txyewy SID (Não Disponível). Essa permissão de segurança pode ser modificada com a ferramenta administrativa Serviços de Componentes."
+Aviso,02/02/2022 11:41:37,Microsoft-Windows-DistributedCOM,10016,Nenhum,"As configurações de permissão específico do aplicativo não concedem permissão Local Ativação para o aplicativo de Servidor COM com CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ e APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ ao usuário LAPTOP-4IGFLVR7\cinth SID (S-1-5-21-2804296457-3408085198-1998820742-1001) do endereço LocalHost (Usando LRPC) que está sendo executado no contêiner de aplicativos Não Disponível SID (Não Disponível). Essa permissão de segurança pode ser modificada com a ferramenta administrativa Serviços de Componentes."
+Aviso,02/02/2022 11:16:23,Microsoft-Windows-DistributedCOM,10016,Nenhum,"As configurações de permissão específico do aplicativo não concedem permissão Local Iniciar para o aplicativo de Servidor COM com CLSID 
+Windows.SecurityCenter.WscDataProtection
+ e APPID 
+Não Disponível
+ ao usuário AUTORIDADE NT\SISTEMA SID (S-1-5-18) do endereço LocalHost (Usando LRPC) que está sendo executado no contêiner de aplicativos Não Disponível SID (Não Disponível). Essa permissão de segurança pode ser modificada com a ferramenta administrativa Serviços de Componentes."
+Aviso,02/02/2022 11:16:23,Microsoft-Windows-DistributedCOM,10016,Nenhum,"As configurações de permissão específico do aplicativo não concedem permissão Local Iniciar para o aplicativo de Servidor COM com CLSID 
+Windows.SecurityCenter.SecurityAppBroker
+ e APPID 
+Não Disponível
+ ao usuário AUTORIDADE NT\SISTEMA SID (S-1-5-18) do endereço LocalHost (Usando LRPC) que está sendo executado no contêiner de aplicativos Não Disponível SID (Não Disponível). Essa permissão de segurança pode ser modificada com a ferramenta administrativa Serviços de Componentes."
+Aviso,02/02/2022 11:16:23,Microsoft-Windows-DistributedCOM,10016,Nenhum,"As configurações de permissão específico do aplicativo não concedem permissão Local Iniciar para o aplicativo de Servidor COM com CLSID 
+Windows.SecurityCenter.WscBrokerManager
+ e APPID 
+Não Disponível
+ ao usuário AUTORIDADE NT\SISTEMA SID (S-1-5-18) do endereço LocalHost (Usando LRPC) que está sendo executado no contêiner de aplicativos Não Disponível SID (Não Disponível). Essa permissão de segurança pode ser modificada com a ferramenta administrativa Serviços de Componentes."
+Aviso,02/02/2022 11:15:40,Microsoft-Windows-DistributedCOM,10016,Nenhum,"As configurações de permissão específico do aplicativo não concedem permissão Local Ativação para o aplicativo de Servidor COM com CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ e APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ ao usuário LAPTOP-4IGFLVR7\cinth SID (S-1-5-21-2804296457-3408085198-1998820742-1001) do endereço LocalHost (Usando LRPC) que está sendo executado no contêiner de aplicativos Não Disponível SID (Não Disponível). Essa permissão de segurança pode ser modificada com a ferramenta administrativa Serviços de Componentes."
+Aviso,02/02/2022 11:15:00,Microsoft-Windows-DistributedCOM,10016,Nenhum,"As configurações de permissão específico do aplicativo não concedem permissão Local Ativação para o aplicativo de Servidor COM com CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ e APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ ao usuário LAPTOP-4IGFLVR7\cinth SID (S-1-5-21-2804296457-3408085198-1998820742-1001) do endereço LocalHost (Usando LRPC) que está sendo executado no contêiner de aplicativos Não Disponível SID (Não Disponível). Essa permissão de segurança pode ser modificada com a ferramenta administrativa Serviços de Componentes."
+Aviso,02/02/2022 11:13:19,Microsoft-Windows-DistributedCOM,10016,Nenhum,"As configurações de permissão específico do aplicativo não concedem permissão Local Ativação para o aplicativo de Servidor COM com CLSID 
+{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}
+ e APPID 
+{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}
+ ao usuário AUTORIDADE NT\SERVIÇO LOCAL SID (S-1-5-19) do endereço LocalHost (Usando LRPC) que está sendo executado no contêiner de aplicativos Não Disponível SID (Não Disponível). Essa permissão de segurança pode ser modificada com a ferramenta administrativa Serviços de Componentes."
+Aviso,02/02/2022 11:13:19,Microsoft-Windows-DistributedCOM,10016,Nenhum,"As configurações de permissão específico do aplicativo não concedem permissão Local Ativação para o aplicativo de Servidor COM com CLSID 
+{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}
+ e APPID 
+{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}
+ ao usuário AUTORIDADE NT\SERVIÇO LOCAL SID (S-1-5-19) do endereço LocalHost (Usando LRPC) que está sendo executado no contêiner de aplicativos Não Disponível SID (Não Disponível). Essa permissão de segurança pode ser modificada com a ferramenta administrativa Serviços de Componentes."
+Aviso,02/02/2022 11:11:26,Microsoft-Windows-Kernel-PnP,219,(212),O driver \Driver\WudfRd falhou ao carregar para o dispositivo ROOT\SYSTEM\0001.
+Aviso,02/02/2022 10:32:51,Microsoft-Windows-DistributedCOM,10016,Nenhum,"As configurações de permissão específico do aplicativo não concedem permissão Local Ativação para o aplicativo de Servidor COM com CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ e APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ ao usuário LAPTOP-4IGFLVR7\cinth SID (S-1-5-21-2804296457-3408085198-1998820742-1001) do endereço LocalHost (Usando LRPC) que está sendo executado no contêiner de aplicativos Não Disponível SID (Não Disponível). Essa permissão de segurança pode ser modificada com a ferramenta administrativa Serviços de Componentes."
+Aviso,02/02/2022 10:07:12,Microsoft-Windows-DistributedCOM,10016,Nenhum,"As configurações de permissão específico do aplicativo não concedem permissão Local Ativação para o aplicativo de Servidor COM com CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ e APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ ao usuário LAPTOP-4IGFLVR7\cinth SID (S-1-5-21-2804296457-3408085198-1998820742-1001) do endereço LocalHost (Usando LRPC) que está sendo executado no contêiner de aplicativos Não Disponível SID (Não Disponível). Essa permissão de segurança pode ser modificada com a ferramenta administrativa Serviços de Componentes."
+Aviso,02/02/2022 10:03:44,Microsoft-Windows-DistributedCOM,10016,Nenhum,"As configurações de permissão específico do aplicativo não concedem permissão Local Ativação para o aplicativo de Servidor COM com CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ e APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ ao usuário LAPTOP-4IGFLVR7\cinth SID (S-1-5-21-2804296457-3408085198-1998820742-1001) do endereço LocalHost (Usando LRPC) que está sendo executado no contêiner de aplicativos Não Disponível SID (Não Disponível). Essa permissão de segurança pode ser modificada com a ferramenta administrativa Serviços de Componentes."
+Aviso,02/02/2022 10:03:44,Microsoft-Windows-DistributedCOM,10016,Nenhum,"As configurações de permissão específico do aplicativo não concedem permissão Local Ativação para o aplicativo de Servidor COM com CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ e APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ ao usuário LAPTOP-4IGFLVR7\cinth SID (S-1-5-21-2804296457-3408085198-1998820742-1001) do endereço LocalHost (Usando LRPC) que está sendo executado no contêiner de aplicativos Não Disponível SID (Não Disponível). Essa permissão de segurança pode ser modificada com a ferramenta administrativa Serviços de Componentes."
+Aviso,02/02/2022 10:02:56,Microsoft-Windows-DistributedCOM,10016,Nenhum,"As configurações de permissão específico do aplicativo não concedem permissão Local Ativação para o aplicativo de Servidor COM com CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ e APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ ao usuário LAPTOP-4IGFLVR7\cinth SID (S-1-5-21-2804296457-3408085198-1998820742-1001) do endereço LocalHost (Usando LRPC) que está sendo executado no contêiner de aplicativos Não Disponível SID (Não Disponível). Essa permissão de segurança pode ser modificada com a ferramenta administrativa Serviços de Componentes."
+Aviso,02/02/2022 10:01:25,Microsoft-Windows-DistributedCOM,10016,Nenhum,"As configurações de permissão específico do aplicativo não concedem permissão Local Ativação para o aplicativo de Servidor COM com CLSID 
+{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}
+ e APPID 
+{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}
+ ao usuário AUTORIDADE NT\SERVIÇO LOCAL SID (S-1-5-19) do endereço LocalHost (Usando LRPC) que está sendo executado no contêiner de aplicativos Não Disponível SID (Não Disponível). Essa permissão de segurança pode ser modificada com a ferramenta administrativa Serviços de Componentes."
+Aviso,02/02/2022 10:01:25,Microsoft-Windows-DistributedCOM,10016,Nenhum,"As configurações de permissão específico do aplicativo não concedem permissão Local Ativação para o aplicativo de Servidor COM com CLSID 
+{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}
+ e APPID 
+{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}
+ ao usuário AUTORIDADE NT\SERVIÇO LOCAL SID (S-1-5-19) do endereço LocalHost (Usando LRPC) que está sendo executado no contêiner de aplicativos Não Disponível SID (Não Disponível). Essa permissão de segurança pode ser modificada com a ferramenta administrativa Serviços de Componentes."
+Aviso,02/02/2022 09:56:18,Microsoft-Windows-Time-Service,134,Nenhum,"O NtpClient não conseguiu definir um mesmo nível manual para ser usado como fonte de tempo devido a um erro de resolução de DNS em 'time.windows.com,0x9'. O NtpClient fará nova tentativa em 15 minutos e, depois disso, dobrará o intervalo para uma nova tentativa. Erro: Este host não é conhecido. (0x80072AF9)"
+Aviso,02/02/2022 09:56:15,Microsoft-Windows-WLAN-AutoConfig,4003,Nenhum,"A Configuração Automática de WLAN detectou conectividade limitada, tentou uma recuperação automática.
+
+Tipo de Recuperação: 4
+Código de Erro: 0x0
+Motivo de Disparo: 5
+Família de IP: 0
+"
+Aviso,02/02/2022 09:55:40,Microsoft-Windows-Time-Service,134,Nenhum,"O NtpClient não conseguiu definir um mesmo nível manual para ser usado como fonte de tempo devido a um erro de resolução de DNS em 'time.windows.com,0x9'. O NtpClient fará nova tentativa em 15 minutos e, depois disso, dobrará o intervalo para uma nova tentativa. Erro: Este host não é conhecido. (0x80072AF9)"
