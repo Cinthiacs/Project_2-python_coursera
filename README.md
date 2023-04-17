@@ -4,11 +4,11 @@ Projeto desenvolvido em Python, usando a IDE Jupyter, que tem como objetivo proc
 
 ## Como usar
 
-1- Faça o download ou clone do repositório em sua máquina.
-2- Certifique-se de ter o Python instalado em sua máquina.
-3- Instale a biblioteca Pandas, usando o seguinte comando no terminal: pip install pandas.
-4- Abra o arquivo logs.py em sua IDE Python favorita (como o Jupyter).
-5- Execute o arquivo e verifique os resultados obtidos.
+1. Faça o download ou clone do repositório em sua máquina.
+2. Certifique-se de ter o Python instalado em sua máquina.
+3. Instale a biblioteca Pandas, usando o seguinte comando no terminal: pip install pandas.
+4. Abra o arquivo logs.py em sua IDE Python favorita (como o Jupyter).
+5. Execute o arquivo e verifique os resultados obtidos.
 
 ### Descrição do projeto
 O projeto consiste em ler um arquivo de logs (no formato CSV) e extrair informações relevantes sobre eventos. Para isso, o projeto utiliza a biblioteca Pandas para ler e processar o arquivo CSV.
