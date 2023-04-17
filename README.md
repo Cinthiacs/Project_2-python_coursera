@@ -5,6 +5,11 @@ Projeto desenvolvido em Python, usando a IDE Jupyter, que tem como objetivo proc
 ## Como usar
 
 1. Faça o download ou clone do repositório em sua máquina.
+
+```bash
+# clonar repositório
+git clone https://github.com/Cinthiacs/Project_2-python_coursera.git
+```
 2. Certifique-se de ter o Python instalado em sua máquina.
 3. Instale a biblioteca Pandas, usando o seguinte comando no terminal: pip install pandas.
 4. Abra o arquivo logs.py em sua IDE Python favorita (como o Jupyter).
