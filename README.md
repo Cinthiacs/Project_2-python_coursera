@@ -1,33 +1,21 @@
-# Using Python to Interact with the Operating System - Coursera - Final Project.
+# Project2 Python_Coursera
 
-# Sobre o projeto:
+Projeto desenvolvido em Python, usando a IDE Jupyter, que tem como objetivo processar um arquivo de logs e extrair informações relevantes sobre eventos.
 
-Através da linguagem python, interpretar uma base de dados em csv, "Logs_eventos.csv" , utilizando "Regular Expressions"(regex), e informar a quantidade de vezes em que houve os eventos:
--Falhou.
--Aviso.
--Erro.
--Permissão.
+## Como usar
 
-# Tecnologias utilizadas:
-- Python
+1- Faça o download ou clone do repositório em sua máquina.
+2- Certifique-se de ter o Python instalado em sua máquina.
+3- Instale a biblioteca Pandas, usando o seguinte comando no terminal: pip install pandas.
+4- Abra o arquivo logs.py em sua IDE Python favorita (como o Jupyter).
+5- Execute o arquivo e verifique os resultados obtidos.
 
-# Como executar o projeto:
+### Descrição do projeto
+O projeto consiste em ler um arquivo de logs (no formato CSV) e extrair informações relevantes sobre eventos. Para isso, o projeto utiliza a biblioteca Pandas para ler e processar o arquivo CSV.
 
-IDE:
-Jupyter notebook.
-Google Colab.
+Em seguida, o código define uma função chamada conta que recebe dois argumentos: o nome da coluna que será analisada e uma expressão regular que será usada para procurar ocorrências na coluna. A função retorna a quantidade de ocorrências encontradas.
 
-```bash
-# clonar repositório
-git clone https://github.com/Cinthiacs/Project_2-python_coursera/blob/main/Projeto_2_py.ipynb
+O arquivo logs.py utiliza essa função para procurar por quatro tipos de eventos: falhas, erros, avisos e permissões. Para cada tipo de evento, o código imprime a quantidade de ocorrências encontradas.
 
-```
-#Link para o Final Project:
-
-https://www.coursera.org/learn/python-operating-system/home/week/7
-
-# Autora
-
-Cinthia Cavalheiro Silverio.
-
-www.linkedin.com/in/cinthia-cavalheiro-silverio
+### Autor
+Esse projeto foi criado por Cinthia Cavalheiro.
