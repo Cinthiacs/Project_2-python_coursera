@@ -17,5 +17,11 @@ Em seguida, o código define uma função chamada conta que recebe dois argument
 
 O arquivo logs.py utiliza essa função para procurar por quatro tipos de eventos: falhas, erros, avisos e permissões. Para cada tipo de evento, o código imprime a quantidade de ocorrências encontradas.
 
+# Projeto_2_py.html
+
+- Este algorítimo foi desenvolvido na linguagem python, através da IDE JupyterNotebook para converter o arquivo Projeto_2_py.ipynb em um arquivo HTML. 
+- É possível abrir o arquivo HTML em qualquer navegador para visualizar o resultado do seu projeto.
+
+
 ### Autor
 Esse projeto foi criado por Cinthia Cavalheiro.
