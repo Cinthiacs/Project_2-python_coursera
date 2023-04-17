@@ -22,6 +22,5 @@ O arquivo logs.py utiliza essa função para procurar por quatro tipos de evento
 - Este algorítimo foi desenvolvido na linguagem python, através da IDE JupyterNotebook para converter o arquivo Projeto_2_py.ipynb em um arquivo HTML. 
 - É possível abrir o arquivo HTML em qualquer navegador para visualizar o resultado do seu projeto.
 
-
-### Autor
-Esse projeto foi criado por Cinthia Cavalheiro.
+### Autora
+Cinthia Cavalheiro.
